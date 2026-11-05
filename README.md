@@ -61,4 +61,4 @@
 
 ## Ma capsule
 
-![Mon interface OBS]((https://github.com/TeckIsHerex/analyse-domaine/blob/main/obs-studio_preuve.png?raw=true))
+![Mon interface OBS](obs-studio_preuve.png)
