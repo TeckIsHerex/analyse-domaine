@@ -43,7 +43,7 @@
 - Types d'entreprises : Studios de création, agences de communication et de design, etc
 - Exemple d'entreprise : Pro-Actif, Graphissimo, etc
 
-![Pro-Actif](entreprise.jpg)
+![Pro-Actif](pro-actif_logo.webp)
 
 (source de l'image : https://www.pro-actif.ca/)
 
@@ -61,4 +61,4 @@
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon interface OBS]((https://github.com/TeckIsHerex/analyse-domaine/blob/main/obs-studio_preuve.png?raw=true))
